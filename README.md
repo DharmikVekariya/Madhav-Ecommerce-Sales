@@ -2,7 +2,7 @@
 
 This project is a Power BI dashboard designed to analyze sales data for Madhav Ecommerce. The analysis covers key metrics such as profit, sales amount, quantity, and customer behavior across various dimensions like product categories and regions.
 
-![Dashboard Screenshot](/dashboard.png)
+![Dashboard Screenshot](./Madhav%20Ecommerce%20Sales.jpg)
 
 ## Data Overview
 
